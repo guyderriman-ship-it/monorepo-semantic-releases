@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/compare/@mono/lib-c-v0.3.0...@mono/lib-c-v0.4.0) (2025-09-16)
+
+
+### Features
+
+* **lib-c:** update export string to 'Mr. Noone1' ([0dbaa13](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/commit/0dbaa137c80d1a52dc6e31c77d498318ec53fe54))
+
 ## 0.3.0 (2025-09-16)
 
 
