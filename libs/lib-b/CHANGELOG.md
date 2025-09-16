@@ -1,5 +1,13 @@
 
 
+## [0.5.0](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/compare/@mono/lib-b-v0.4.0...@mono/lib-b-v0.5.0) (2025-09-16)
+
+
+### Features
+
+* **config-release-it:** released version v0.2.2 [no ci] ([96a9b19](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/commit/96a9b19243d99fe585301cae3412e7846890b2b9))
+* **lib-c:** released version v0.6.0 [no ci] ([3c0778f](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/commit/3c0778f8310c288239d054866b67986ea8600898))
+
 ## 0.4.0 (2025-09-16)
 
 
