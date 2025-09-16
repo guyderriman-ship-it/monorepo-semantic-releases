@@ -14,7 +14,7 @@ module.exports = {
     },
   },
   git: {
-    push: true,
+    push: false,
     tagName: `${packageName}-v${version}`,
     commitsPath: '.',
     commitMessage: `feat(${scope}): released version v${version} [no ci]`,
