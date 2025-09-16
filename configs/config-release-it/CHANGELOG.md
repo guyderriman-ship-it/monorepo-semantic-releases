@@ -1,5 +1,12 @@
 
 
+## [0.2.2](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/compare/@mono/config-release-it-v0.2.1...@mono/config-release-it-v0.2.2) (2025-09-16)
+
+
+### Bug Fixes
+
+* removed auto git push ([f3b1d55](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/commit/f3b1d5545e5bd3d07cb8bcd528be5910650766ec))
+
 ## [0.2.1](https://github.com/guyderriman-ship-it/monorepo-semantic-releases/compare/@mono/config-release-it-v0.2.0...@mono/config-release-it-v0.2.1) (2025-09-16)
 
 ## 0.2.0 (2025-09-16)
